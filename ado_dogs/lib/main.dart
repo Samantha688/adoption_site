@@ -107,7 +107,7 @@ class _DogListScreenState extends State<DogListScreen> {
                 const SizedBox(width: 16),
                 ElevatedButton.icon(
                   icon: const Icon(Icons.local_hospital),
-                  label: const Text('Veterinary Clinic Information'),
+                  label: const Text('Veterinary Clinic Info'),
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Color(0xFFD1C4E9), // light purple
                     foregroundColor: Colors.deepPurple,
